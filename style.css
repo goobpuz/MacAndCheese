@@ -1,0 +1,10 @@
+/*!
+ Theme Name:     Mac and Cheese
+ Theme URI:      https://www.gabipuz.com
+ Description:    Mac and Cheese Theme
+ Author:         Gabi Puz
+ Author URI:     https://www.gabipuz.com
+ Template:       Mac and Cheese
+ Version:        1.0.0
+ Tags:
+*/#header{-webkit-box-shadow:0px 2px 7px 0px rgba(0,0,0,0.2);box-shadow:0px 2px 7px 0px rgba(0,0,0,0.2);padding:0 5%}#header .inner-header{display:-webkit-box;display:-ms-flexbox;display:flex;height:65px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}#header .inner-header img{height:55px}#header .inner-header #navigation{display:-webkit-box;display:-ms-flexbox;display:flex;list-style:none;padding-left:0;margin:0}#header .inner-header #navigation .nav-item{margin:0 10px}
