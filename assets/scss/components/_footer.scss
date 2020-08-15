@@ -1,0 +1,21 @@
+footer{
+    .primary-background {background-color:#096475;}
+    
+    footer > .primary-background {
+        background: #136474;
+        
+    }
+    .extra-padding {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .extra-padding.paddNoneDesktop {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    .inner {
+        max-width: 1345px;
+        margin: 0px auto;
+        position: relative; 
+    }
+}

@@ -23,4 +23,11 @@
             }
         }
     } //inner-header ending
+    #mobile-navigation{
+        .nav-line{
+            width: 4px;
+            height: 2px;
+            background: #000000;
+        }
+       }
 } //Header: what the element is inside of the "header" is called the inner-header (Can be called anything). Like a Russian Nesting Doll.
