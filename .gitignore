@@ -1,3 +1,4 @@
 # This space is for files I do not want pushed, i.e; to-do list just for me, images, node modules, vendor files and folders, etc.
 to-do.log
 node_modules
+style.css
